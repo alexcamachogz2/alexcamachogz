@@ -47,11 +47,11 @@ As a software engineer with seven years of experience, I have specialized in dev
 
 Under construction!
 
-### 🌎 &nbsp;&nbsp;Find me around the web:
-- Writing in <a href="https://medium.com/@alexcamachogz">Medium</a>.
+### 🌎 &nbsp;&nbsp;You find me:
+- Writing on <a href="https://medium.com/@alexcamachogz">Medium</a>.
 - Talking and sharing on <a href="https://twitter.com/alexcamachogz">Twitter</a>.
 - Experimenting with CSS on <a href="https://codepen.io/alexcamachogz">Codepen</a>.
-- And you can find my profesional profile on <a href="https://www.linkedin.com/in/alexcamachogz/">Linkedin</a>.
+- On <a href="https://www.linkedin.com/in/alexcamachogz/">Linkedin</a>.
 
 ### 📈 &nbsp;&nbsp;Some of my stats are:
 <p align="center">
