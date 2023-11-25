@@ -1,4 +1,4 @@
-### Hi there, this is Alejandra ✨
+## Hi there, this is Alejandra ✨
 
 As a software engineer with seven years of experience, I have specialized in developing applications using Angular, Vue, Python, Java, MongoDB, and Node.js. I am also experienced in integrating web applications using tools such as GitHub, Notion, Slack, and Jira. In addition, I am certified in Cisco DevNet Associate and as a Scrum Master, and I enjoy working in teams and sharing my knowledge through blogs and written media.
 
@@ -7,7 +7,7 @@ As a software engineer with seven years of experience, I have specialized in dev
 💬 &nbsp;&nbsp;Ask me about whatever you want. I am interested in helping and sharing. <br/>
 😄 &nbsp;&nbsp;Pronouns are she / her.
 
-## 🎯 &nbsp;&nbsp;Some technologies I use:
+### 🎯 &nbsp;&nbsp;Some technologies I use:
 <p align="center">
   <img src="https://img.shields.io/badge/Apple-gray?style=for-the-badge&logo=apple&logoColor=white" alt="apple" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />&nbsp;&nbsp;
@@ -37,4 +37,22 @@ As a software engineer with seven years of experience, I have specialized in dev
   <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" alt="Webstorm">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="Pycharm">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Vscode">&nbsp;&nbsp;  
+</p>
+
+### ⚒️ &nbsp;&nbsp;My projects:
+
+Under construction!
+
+### 🌎 &nbsp;&nbsp;Find me around the web:
+- Writing in <a href="https://medium.com/@alexcamachogz">Medium</a>.
+- Talking and sharing on <a href="https://twitter.com/alexcamachogz">Twitter</a>.
+- Experimenting with CSS on <a href="https://codepen.io/alexcamachogz">Codepen</a>.
+- And you can find my profesional profile on <a href="https://www.linkedin.com/in/alexcamachogz/">Linkedin</a>.
+
+### 📈 &nbsp;&nbsp;Some of my stats are:
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexcamachogz" />
+</p>
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falexcamachogz1212%2Fhit-counter" />
 </p>
