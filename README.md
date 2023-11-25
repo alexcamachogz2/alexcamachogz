@@ -1,8 +1,8 @@
+## Hi there, this is Alejandra ✨
+
 <p align="center">
   <img src="https://github.com/alexcamachogz/random_images/blob/main/alexcamachogz.png?raw=true" alt="banner that says Alejandra Camacho - Software development enfineer">
 </p>
-
-## Hi there, this is Alejandra ✨
 
 As a software engineer with seven years of experience, I have specialized in developing applications using Angular, Vue, Python, Java, MongoDB, and Node.js. I am also experienced in integrating web applications using tools such as GitHub, Notion, Slack, and Jira. In addition, I am certified in Cisco DevNet Associate and as a Scrum Master, and I enjoy working in teams and sharing my knowledge through blogs and written media.
 
