@@ -49,7 +49,7 @@ Under construction!
 
 ### 🌎 &nbsp;&nbsp;You find me:
 - Writing on <a href="https://medium.com/@alexcamachogz">Medium</a>.
-- Talking and sharing on <a href="https://twitter.com/alexcamachogz">X before Twitter.</a>.
+- Talking and sharing on <a href="https://twitter.com/alexcamachogz">X before Twitter</a>.
 - Experimenting with CSS on <a href="https://codepen.io/alexcamachogz">Codepen</a>.
 - On <a href="https://www.linkedin.com/in/alexcamachogz/">Linkedin</a>.
 
