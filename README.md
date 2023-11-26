@@ -6,7 +6,7 @@
 
 As a software engineer with seven years of experience, I have specialized in developing applications using Angular, Vue, Python, Java, PosgreSQL, and so on. I am also experienced in integrating web applications using tools such as GitHub, Notion, Slack, and Jira. In addition, I am certified in Cisco DevNet Associate and as a Scrum Master, and I enjoy working in teams and sharing my knowledge through blogs and written media.
 
-- 🔭 &nbsp;&nbsp;I’m currently working at Cisco. <br/>
+- 🔭 &nbsp;&nbsp;I’m currently working at [Cisco](https://www.cisco.com/). <br/>
 - 🌱 &nbsp;&nbsp;I’m currently learning about Spring Boot and PostgreSQL. <br/>
 - 💬 &nbsp;&nbsp;Ask me about whatever you want. I am interested in helping and sharing. <br/>
 - 😄 &nbsp;&nbsp;Pronouns are she / her.
@@ -49,7 +49,7 @@ Under construction!
 
 ### 🌎 &nbsp;&nbsp;You find me:
 - Writing on <a href="https://medium.com/@alexcamachogz">Medium</a>.
-- Talking and sharing on <a href="https://twitter.com/alexcamachogz">Twitter</a>.
+- Talking and sharing on <a href="https://twitter.com/alexcamachogz">X before Twitter.</a>.
 - Experimenting with CSS on <a href="https://codepen.io/alexcamachogz">Codepen</a>.
 - On <a href="https://www.linkedin.com/in/alexcamachogz/">Linkedin</a>.
 
